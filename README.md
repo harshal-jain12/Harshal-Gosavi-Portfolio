@@ -20,7 +20,7 @@ This portfolio highlights my expertise in web development, showcasing projects, 
 - **Deployment:** Vercel, Netlify, GitHub Pages
 
 ## 🌐 Live Demo
-🔗 **[View My Portfolio](#)** _(Add your live portfolio link here)_
+🔗 **[View My Portfolio](https://serene-tulumba-626942.netlify.app/)**
 
 ## 📂 Repository Structure
 ```
@@ -36,7 +36,7 @@ This portfolio highlights my expertise in web development, showcasing projects, 
 
 ## 📜 Resume
 You can view or download my resume here:  
-📄 **[Harshal_Gosavi_Resume.pdf](#)**
+📄 **[[Harshal_Gosavi_Resume.pdf](https://github.com/harshal-jain12/Harshal-Gosavi-Portfolio/blob/main/Harshal_Gosavi_Resume.pdf)](#)**
 
 ## 🚀 How to Use
 1. **Clone the repository**
@@ -48,7 +48,7 @@ You can view or download my resume here:
 
 ## ✨ Connect with Me
 📧 **Email:** harshalgosavi334@gmail.com  
-💼 **LinkedIn:** [Harshal Gosavi](#) _(Add your LinkedIn profile link)_  
+💼 **LinkedIn:** [Harshal Gosavi](www.linkedin.com/in/harshal-gosavi)  
 🐙 **GitHub:** [harshal-jain12](https://github.com/harshal-jain12)
 
 ---
