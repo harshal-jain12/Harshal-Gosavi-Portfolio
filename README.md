@@ -48,7 +48,7 @@ You can view or download my resume here:
 
 ## ✨ Connect with Me
 📧 **Email:** harshalgosavi334@gmail.com  
-💼 **LinkedIn:** [Harshal Gosavi](www.linkedin.com/in/harshal-gosavi)  
+💼 🔗 **Connect with me on LinkedIn:** [Harshal Gosavi](https://www.linkedin.com/in/harshal-gosavi/)  
 🐙 **GitHub:** [harshal-jain12](https://github.com/harshal-jain12)
 
 ---
