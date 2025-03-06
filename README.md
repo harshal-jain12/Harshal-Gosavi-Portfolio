@@ -36,7 +36,7 @@ This portfolio highlights my expertise in web development, showcasing projects, 
 
 ## 📜 Resume
 You can view or download my resume here:  
-📄 **[Resume Link](#)** _(Upload your resume and update the link)_
+📄 **[Harshal_Gosavi_Resume.pdf](#)**
 
 ## 🚀 How to Use
 1. **Clone the repository**
